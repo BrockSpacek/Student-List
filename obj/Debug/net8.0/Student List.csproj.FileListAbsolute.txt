@@ -1,0 +1,32 @@
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\bin\Debug\net8.0\appsettings.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\bin\Debug\net8.0\Student List.exe
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\bin\Debug\net8.0\Student List.deps.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\bin\Debug\net8.0\Student List.runtimeconfig.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\bin\Debug\net8.0\Student List.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\bin\Debug\net8.0\Student List.pdb
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.csproj.AssemblyReference.cache
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.AssemblyInfoInputs.cache
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.AssemblyInfo.cs
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.csproj.CoreCompileInputs.cache
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\staticwebassets\msbuild.Student List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\staticwebassets\msbuild.build.Student List.props
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Student List.props
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Student List.props
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\scopedcss\bundle\Student List.styles.css
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student .6985D454.Up2Date
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\refint\Student List.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.pdb
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.genruntimeconfig.cache
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\ref\Student List.dll
