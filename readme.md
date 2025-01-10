@@ -21,3 +21,24 @@ We are going to create a services file that houses our logic and then we will in
 3. We had to add our Services into our progrom.cs in order to provide our services throughout our file. 
 4. We injected the data into our controller via "Dependancy Injection"
 5. We were able to use and access our methods from our object(_studentListServices).
+
+### Day 3 Today we are Covering Models and Built in C# Methods (Find & FindIndex)
+
+- What is a model
+
+A model is a Representation of Data that we will use throughout our app aka a blueprint for objects.
+
+Eventually When we get into databases our models will represent the data we will be sending and retreiving from our DB.
+
+### Day 4 We will be Creating A Database with Azure and Connecting to it VIA EFCore
+
+What is EF Core?
+
+Entity Framework Core: It allows our application to interact with our database without using any SQL commands
+
+1. Set up our Database using Azure
+2. Configuring our database connection in our Appsetting.json
+3. Installing EFCore Packages and SQL Server Packages
+4. We will be making a class called DataContext which will act as a bridge from our C# to our Database Tables
+5. Register our database within our app (program.cs)
+6. we will be changing our logic for our services to account for our Database

@@ -2,43 +2,52 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Student_List.Models;
 
 namespace Student_List.services
 {
     public class StudentListServices
     {
-        public List<string> studentList = new();
+        public List<StudentModel> studentList = new();
 
         public StudentListServices()
         {
-            studentList.Add("Jacob");
-            studentList.Add("Mr. Hackerman");
+            studentList.Add(new StudentModel {
+                Id = 0,
+                Name = "Charles"
+            });
         }
 
         
-        public List<string> GetStudents()
+        public List<StudentModel> GetStudents()
         {
             return studentList;
         }
 
 
-        public List<string> AddToStudentList(string studentToAdd)
+        public List<StudentModel> AddToStudentList(string studentToAdd)
         {
-            studentList.Add(studentToAdd);
+            StudentModel student = new();
+            student.Name = studentToAdd;
+
+            studentList.Add(student);
             return studentList;
         }
 
 
-        public List<string> RemoveFromStudentList(string studentToRemove)
+        public List<StudentModel> RemoveFromStudentList(string studentToRemove)
         {
-            studentList.Remove(studentToRemove);
+            StudentModel student = studentList.Find(student => student.Name == studentToRemove);
+            studentList.Remove(student);
             return studentList;
         }
         
 
-        public List<string> EditStudentFromList(string studentToEdit, string newStudentName)
+        public List<StudentModel> EditStudentFromList(string studentToEdit, string newStudentName)
         {
-            studentList[studentList.IndexOf(studentToEdit)] = newStudentName;
+            int index = studentList.FindIndex(student => student.Name == studentToEdit);
+           
+            studentList[index].Name = newStudentName;
             return studentList;
         }
     }

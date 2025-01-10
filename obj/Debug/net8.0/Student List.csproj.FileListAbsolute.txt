@@ -30,3 +30,4 @@ C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.
 C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.pdb
 C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.genruntimeconfig.cache
 C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\ref\Student List.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\Student List\obj\Debug\net8.0\Student List.sourcelink.json
